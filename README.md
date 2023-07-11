@@ -3,7 +3,7 @@
 需要源码加QQ：834776745 备注：网盘源码
 
 # 在线体验
-> [http://zhifou.codelicence.cn/](https://www.codelicence.cn/)
+> https://www.codelicence.cn/
 
 # 预览
 ![image](https://github.com/midoujia/wangpansearch/assets/26396233/c970d6e6-980e-4e47-a39f-e65bd4fe83c8)
